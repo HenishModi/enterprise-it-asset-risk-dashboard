@@ -1,0 +1,501 @@
+asset_id,asset_type,purchase_date,warranty_expiry,cost,department,status,vendor,owner,criticality,replacement_priority,business_impact_score
+1,Storage,2023-01-09,2026-01-08,8439,Finance,In Maintenance,Chapman-Arnold,Julie Howell,High,5,8
+2,Laptop,2024-02-04,2027-02-03,2479,IT,In Maintenance,Munoz-Meadows,Joshua Moore,Low,2,2
+3,Network Device,2025-05-18,2028-05-17,4171,HR,Retired,Rodriguez-Williams,Natasha Hernandez,Low,4,2
+4,Server,2022-01-10,2025-01-09,13742,Operations,In Maintenance,Alvarez LLC,Donald Bradford,Low,4,9
+5,Laptop,2019-03-22,2022-03-21,2264,Finance,Active,Hernandez-Taylor,Shawn Jackson,Low,3,4
+6,Laptop,2021-06-16,2024-06-15,1888,Finance,Retired,Contreras PLC,Sara Patrick,Low,1,8
+7,Desktop,2022-06-22,2025-06-21,1413,Finance,Active,Washington-Morse,Christopher Bryant,Medium,1,5
+8,Server,2025-10-24,2028-10-23,11141,Operations,Active,"Johnson, Farley and Robinson",Kerry Gonzalez,High,5,7
+9,Storage,2023-09-30,2026-09-29,5950,IT,Active,Cunningham PLC,Aimee Ray,High,5,7
+10,Storage,2022-03-13,2025-03-12,6945,Operations,Retired,Roberts Group,Erin Gregory,High,2,8
+11,Server,2025-11-13,2028-11-12,12529,HR,Retired,Garza Group,Daniel Briggs,High,4,5
+12,Storage,2023-04-26,2026-04-25,5588,Finance,In Maintenance,"Rice, Martinez and Gonzalez",Brenda Freeman,Medium,5,5
+13,Network Device,2022-03-18,2025-03-17,7655,HR,In Maintenance,Gilbert PLC,Jordan Lopez,Medium,2,7
+14,Network Device,2020-08-05,2023-08-05,2873,IT,In Maintenance,"Hunter, Petersen and Navarro",Mackenzie Baker MD,Low,3,10
+15,Server,2020-05-07,2023-05-07,9837,Finance,Retired,Hardy-Bradford,Sharon Parker,Medium,3,1
+16,Storage,2018-04-04,2021-04-03,3803,Risk,Retired,Clay-Foster,Dr. Melissa Caldwell MD,Medium,3,4
+17,Storage,2018-12-08,2021-12-07,8772,IT,Retired,Mccoy-Reyes,Jon Murray,High,5,5
+18,Desktop,2018-08-03,2021-08-02,998,Compliance,Retired,Boyle-Watson,Cheryl Hicks,High,3,8
+19,Laptop,2025-07-05,2028-07-04,2186,HR,Retired,Valentine-Smith,William Vincent,High,1,5
+20,Server,2023-04-21,2026-04-20,11807,IT,Active,"Williams, Lopez and Payne",Shannon Barrera,High,5,6
+21,Storage,2020-10-26,2023-10-26,11221,HR,Active,Hall and Sons,William Rocha,Medium,4,5
+22,Server,2022-11-02,2025-11-01,6886,Operations,Active,Arroyo Group,Edward Reed,High,2,7
+23,Storage,2021-04-09,2024-04-08,8992,Finance,In Maintenance,"Smith, Hunt and May",David Hansen,High,3,9
+24,Laptop,2019-06-20,2022-06-19,1931,HR,Retired,Thomas LLC,John Harris,Low,3,10
+25,Network Device,2018-11-28,2021-11-27,7230,HR,Active,"Bryant, Wilkerson and Johnson",Dwayne Bennett,Low,2,8
+26,Laptop,2021-05-12,2024-05-11,2268,Risk,In Maintenance,Brown Group,Wendy Martin,Low,2,2
+27,Network Device,2025-11-05,2028-11-04,7743,HR,Retired,Wyatt-Barrett,David Browning,Medium,1,3
+28,Laptop,2025-03-13,2028-03-12,1076,HR,In Maintenance,Small-Kelly,Elizabeth Roman,High,1,4
+29,Storage,2021-10-25,2024-10-24,5222,Operations,In Maintenance,Soto and Sons,William Morgan,Medium,5,7
+30,Storage,2020-06-03,2023-06-03,5531,Operations,Retired,Nichols-Thomas,Dakota Mcdaniel,High,4,10
+31,Network Device,2022-05-06,2025-05-05,4291,Finance,Retired,"Webb, Hardy and Thomas",Susan Thompson,Medium,2,8
+32,Network Device,2025-03-07,2028-03-06,3934,HR,Active,Davis-Williams,David West,Low,3,9
+33,Server,2020-03-30,2023-03-30,5992,Operations,In Maintenance,Harvey-Roberts,Calvin Harrison,High,1,8
+34,Laptop,2020-01-30,2023-01-29,2357,IT,Retired,Hernandez-Hayes,Audrey Spencer,Low,5,1
+35,Laptop,2018-09-08,2021-09-07,1683,IT,Active,Rose Ltd,Jamie Rojas,Low,2,2
+36,Storage,2020-02-29,2023-02-28,6394,Risk,Active,Taylor Ltd,Melissa Patterson,High,3,3
+37,Storage,2021-10-15,2024-10-14,3046,HR,Active,"Fitzpatrick, Weber and Hall",Jeffrey Hanna,High,5,5
+38,Desktop,2018-03-12,2021-03-11,1025,Compliance,Active,"Hudson, Mitchell and Perry",Laurie Beck,High,1,6
+39,Desktop,2020-08-27,2023-08-27,1463,Finance,Active,Ellis Ltd,Elizabeth Tran,Medium,1,3
+40,Network Device,2019-05-27,2022-05-26,6309,Finance,Retired,Erickson-Hansen,Dawn Randall,High,4,8
+41,Server,2021-11-16,2024-11-15,13408,Risk,Active,Garcia-Bailey,Julia Anderson,Medium,5,4
+42,Storage,2026-01-27,2029-01-26,3710,Compliance,Retired,Patel-Henry,Miguel Hudson,Low,3,8
+43,Laptop,2019-01-11,2022-01-10,1124,Operations,In Maintenance,Morales LLC,Carla Perez,Medium,1,8
+44,Network Device,2023-01-31,2026-01-30,2602,Finance,In Maintenance,"Campbell, Hernandez and Reed",Sarah Price,Low,2,2
+45,Desktop,2018-11-25,2021-11-24,1363,Risk,Retired,Cooper-Turner,Carla Wilson,Low,5,6
+46,Network Device,2019-06-06,2022-06-05,6893,Risk,In Maintenance,Graham-Santos,Ethan Perkins,Medium,5,10
+47,Network Device,2019-08-31,2022-08-30,2812,Compliance,Active,Harmon and Sons,Carol Dixon,Low,5,4
+48,Network Device,2022-03-30,2025-03-29,5699,IT,In Maintenance,"Wolf, Ibarra and Burnett",Christina Gray,Medium,4,7
+49,Network Device,2019-10-06,2022-10-05,7976,Finance,In Maintenance,"Smith, Cole and Gordon",Katie Black,Medium,3,5
+50,Server,2023-10-24,2026-10-23,7500,Compliance,In Maintenance,Bennett and Sons,Laura Young,High,1,2
+51,Laptop,2023-10-20,2026-10-19,1884,Finance,Retired,Farrell Ltd,William Lee,Low,3,3
+52,Storage,2023-03-22,2026-03-21,3982,Risk,Retired,Joyce PLC,Keith Williams,Low,3,2
+53,Network Device,2023-06-11,2026-06-10,4896,Compliance,In Maintenance,Patterson Inc,Joshua Thornton,Low,1,5
+54,Storage,2022-02-22,2025-02-21,8119,HR,Active,Lane-Johnson,Thomas Kirk,Low,5,4
+55,Desktop,2025-07-24,2028-07-23,1787,IT,Active,"Campos, Dodson and Everett",Henry Hicks,Medium,5,6
+56,Laptop,2022-05-11,2025-05-10,1570,Risk,Active,Austin-Blair,Emily Frye,Medium,5,10
+57,Storage,2020-10-07,2023-10-07,3430,Risk,Retired,"Callahan, Chase and Brewer",Bobby Peterson,Low,3,1
+58,Desktop,2019-03-06,2022-03-05,1359,Compliance,In Maintenance,Charles and Sons,Jennifer Jones,Medium,3,1
+59,Desktop,2022-07-24,2025-07-23,1093,Risk,Retired,Collier Inc,Samantha Robinson,Medium,1,3
+60,Laptop,2022-12-31,2025-12-30,1187,Compliance,Retired,"Turner, Nielsen and Jones",Luke Moore,High,4,7
+61,Network Device,2019-11-08,2022-11-07,4792,IT,In Maintenance,Greene and Sons,Rachel Mckenzie,Medium,3,10
+62,Storage,2018-06-25,2021-06-24,4391,Finance,Active,"Kidd, Taylor and Morse",Amy Chambers,High,5,1
+63,Laptop,2024-09-08,2027-09-08,1557,Operations,Retired,"Sullivan, Fields and Ford",Tracey Gonzalez,Medium,4,10
+64,Network Device,2025-02-09,2028-02-09,5392,HR,Active,Douglas Group,Isabella Douglas MD,Low,1,6
+65,Network Device,2022-09-20,2025-09-19,2908,HR,Retired,"Stark, Wright and Jones",Jack Wilson,Low,5,8
+66,Storage,2021-11-09,2024-11-08,8053,Finance,Active,"Ortiz, Carr and White",Janet Avery,Medium,5,1
+67,Laptop,2021-12-28,2024-12-27,1418,HR,Active,"Snow, Herring and Reid",David Smith,High,3,5
+68,Server,2021-03-13,2024-03-12,6965,Finance,In Maintenance,"Pope, Chung and Morgan",Anthony Nguyen,Low,4,3
+69,Desktop,2019-11-23,2022-11-22,1578,Risk,Retired,Shea-Ferguson,Cody Jenkins,High,5,9
+70,Server,2021-03-25,2024-03-24,6180,Operations,Retired,Thomas-Michael,Kimberly Hardy,High,4,1
+71,Network Device,2023-06-06,2026-06-05,2637,HR,Retired,"Green, Davis and Rivera",Timothy Smith,Medium,5,7
+72,Network Device,2024-02-10,2027-02-09,4371,Finance,In Maintenance,"Humphrey, Harris and Moore",Timothy Obrien,High,3,3
+73,Storage,2025-09-16,2028-09-15,10538,Compliance,In Maintenance,Palmer-Fisher,Dawn Pierce,High,4,2
+74,Desktop,2019-01-30,2022-01-29,1692,Risk,In Maintenance,Owens-Lee,Matthew Martin,Low,1,7
+75,Server,2023-04-25,2026-04-24,10562,IT,In Maintenance,House PLC,James Clark,High,1,9
+76,Laptop,2025-12-12,2028-12-11,2086,Risk,Active,Green PLC,Amy Goodwin,Medium,3,3
+77,Desktop,2026-01-04,2029-01-03,1010,IT,In Maintenance,Wilson Ltd,James Bradford,High,2,10
+78,Desktop,2025-08-02,2028-08-01,954,IT,Retired,"Moore, Lewis and Mcbride",Christina Jennings,Medium,4,10
+79,Storage,2020-10-06,2023-10-06,10354,Compliance,Retired,"Wilson, Peterson and Gray",Danielle Brown,Low,5,6
+80,Server,2024-08-17,2027-08-17,7473,Operations,Active,Rowe-Francis,Angela Hardy,Medium,4,5
+81,Server,2021-11-10,2024-11-09,14689,Finance,In Maintenance,Duffy and Sons,Jennifer Hubbard,Low,1,5
+82,Network Device,2018-02-16,2021-02-15,5702,Finance,Active,Cooper-Wallace,Elizabeth Cummings,Medium,3,2
+83,Laptop,2025-04-05,2028-04-04,2259,Risk,Retired,"Wells, Howe and Lewis",Bryan Rice,Medium,4,10
+84,Storage,2020-07-09,2023-07-09,3672,Operations,Retired,Campbell-Scott,Olivia Perez,Low,2,6
+85,Storage,2020-10-08,2023-10-08,10792,Risk,Active,Cook-Conley,Carmen Carroll DDS,High,4,2
+86,Server,2021-12-20,2024-12-19,6381,Risk,Retired,Cooley-Gibson,Gregory Rivera,High,1,4
+87,Network Device,2020-05-04,2023-05-04,5599,Risk,Retired,Hensley-Diaz,Michael Jackson,Low,2,6
+88,Server,2024-09-23,2027-09-23,9634,Operations,In Maintenance,Callahan-Morton,Ana Lewis,Medium,5,1
+89,Server,2023-05-06,2026-05-05,6079,HR,Active,"Wilson, Franklin and Williams",Christopher Valdez,Low,4,5
+90,Server,2021-05-21,2024-05-20,14874,IT,In Maintenance,Rangel-Griffith,Lisa Williams,High,5,3
+91,Server,2021-03-14,2024-03-13,10082,Compliance,Retired,Collins-Salazar,Natalie Delacruz,Low,4,3
+92,Storage,2019-01-09,2022-01-08,4388,HR,Retired,Armstrong-Powell,Rhonda Watson,Medium,3,3
+93,Storage,2018-08-30,2021-08-29,4531,Compliance,Retired,"Bell, Anderson and Henson",Priscilla Murphy,Medium,5,6
+94,Laptop,2022-03-17,2025-03-16,1742,HR,Active,"White, Bailey and Wright",Thomas Herman,High,3,8
+95,Desktop,2025-08-06,2028-08-05,1263,IT,Active,"Smith, Davis and Delgado",James Tucker,High,3,2
+96,Storage,2020-05-13,2023-05-13,11843,Compliance,Retired,Green-Lin,Harry Evans,High,3,10
+97,Desktop,2020-10-29,2023-10-29,1571,IT,Active,Mckinney Group,Carlos Clark,High,5,3
+98,Network Device,2019-01-26,2022-01-25,2357,Operations,In Maintenance,"Torres, Martin and Smith",Kevin Terry,Low,2,8
+99,Storage,2022-04-25,2025-04-24,7668,Compliance,In Maintenance,Jacobs-Rose,Ryan Barnes,High,5,4
+100,Server,2024-05-27,2027-05-27,12684,IT,In Maintenance,Taylor Inc,Steven Aguilar,Low,5,8
+101,Network Device,2020-09-29,2023-09-29,4308,Operations,Retired,Flores-Morales,Erica Huber,Low,4,3
+102,Desktop,2025-11-03,2028-11-02,1083,HR,Active,Bryant-Warren,Jerry Campbell,Low,4,6
+103,Storage,2022-05-01,2025-04-30,4680,Compliance,Retired,Carlson-Scott,Michael Brown,High,3,2
+104,Desktop,2023-07-17,2026-07-16,1358,Operations,Retired,Curtis-Davis,Jerry Rice,High,4,2
+105,Desktop,2023-02-08,2026-02-07,1723,HR,Active,Phillips-Bradford,Mrs. Kara Harper,Medium,1,7
+106,Storage,2022-11-08,2025-11-07,9126,IT,In Maintenance,"Donaldson, Patterson and Thompson",Amy White,High,3,4
+107,Laptop,2020-06-25,2023-06-25,1652,Finance,Retired,"Fisher, Smith and Mendoza",Jeffrey Morris,Low,3,3
+108,Desktop,2020-03-08,2023-03-08,878,HR,In Maintenance,Atkinson-Sullivan,Jane Parker,Low,2,8
+109,Network Device,2021-01-18,2024-01-18,7040,Finance,Active,Kirby-Swanson,Cathy Franklin,High,3,4
+110,Desktop,2026-01-13,2029-01-12,1923,Compliance,Retired,Wolf-Bailey,David Hayes,Low,4,2
+111,Server,2019-12-14,2022-12-13,8893,HR,Active,Short LLC,Emily Jones,High,2,7
+112,Storage,2021-01-05,2024-01-05,10489,Finance,Active,Ramirez-Campbell,Mario Smith,Medium,5,9
+113,Laptop,2023-03-08,2026-03-07,2294,Risk,Retired,Adams Inc,Frank Pruitt,High,2,5
+114,Network Device,2025-08-15,2028-08-14,2012,Risk,In Maintenance,"Harper, Duarte and Lee",Alexis Martin,High,5,7
+115,Desktop,2020-04-06,2023-04-06,975,Risk,In Maintenance,"Robinson, Cline and Perry",Janet Bishop,High,5,9
+116,Storage,2023-10-20,2026-10-19,11316,Risk,Active,Wiggins LLC,Erin Galloway,Medium,4,1
+117,Network Device,2025-05-23,2028-05-22,5058,HR,Retired,Peters-Curry,Maria Smith,High,3,2
+118,Server,2019-01-18,2022-01-17,8950,Compliance,Retired,"Wilson, Jones and Copeland",Amy Tran,Low,1,10
+119,Server,2024-06-26,2027-06-26,7185,Finance,In Maintenance,Harrell-Wilson,Megan Holloway,Low,3,3
+120,Network Device,2024-06-18,2027-06-18,7696,Operations,Retired,Mahoney-Gutierrez,Donna Leon,High,2,2
+121,Network Device,2022-03-09,2025-03-08,2302,HR,Active,Schmidt Group,Craig Barber,High,2,1
+122,Server,2023-10-26,2026-10-25,10080,Risk,In Maintenance,Perkins-Villa,Karl Mitchell,Low,4,5
+123,Laptop,2024-03-24,2027-03-24,2324,IT,In Maintenance,"Reyes, White and Mcmahon",Shelly Stafford,Medium,1,6
+124,Server,2018-05-29,2021-05-28,7039,HR,In Maintenance,"Owens, Romero and Washington",Jordan Miller,Medium,4,7
+125,Server,2024-02-03,2027-02-02,8060,Operations,Retired,"Hayes, Colon and Griffin",Andrea Yu,Medium,3,9
+126,Server,2024-11-17,2027-11-17,6353,Compliance,In Maintenance,"Hebert, Yu and Caldwell",Lisa Marks,High,4,10
+127,Desktop,2025-05-31,2028-05-30,1917,HR,In Maintenance,"Garcia, Howard and Mendoza",Allison Smith,High,1,6
+128,Server,2018-08-31,2021-08-30,10021,Operations,Retired,Mathis Inc,Melody Harris,Low,4,3
+129,Network Device,2018-04-11,2021-04-10,4879,Operations,Active,Larson-Williams,Lisa Wilson,Low,3,10
+130,Network Device,2020-05-11,2023-05-11,4249,Compliance,Active,"Brown, Savage and Hart",Daniel Sexton,High,4,6
+131,Storage,2018-06-19,2021-06-18,5621,Finance,Active,Oneill-Jenkins,Kara Boyd,Low,4,1
+132,Desktop,2021-05-07,2024-05-06,937,IT,Retired,Holt-Jenkins,Philip Jones,Medium,3,7
+133,Storage,2018-05-01,2021-04-30,3530,Risk,Active,Santana LLC,Nathan Mason,Low,4,6
+134,Server,2025-09-29,2028-09-28,12273,Finance,Retired,Mitchell-Bass,Julie Griffith,High,5,6
+135,Network Device,2025-10-09,2028-10-08,4575,Compliance,In Maintenance,Schroeder Inc,Sean Russell,High,1,1
+136,Desktop,2020-10-12,2023-10-12,1822,Risk,In Maintenance,Young and Sons,Timothy Morgan,Low,1,5
+137,Server,2024-11-11,2027-11-11,12311,IT,Retired,Wilson-Hodge,Justin Mack,Medium,4,4
+138,Laptop,2024-03-28,2027-03-28,1277,Finance,In Maintenance,Martin and Sons,Hannah James,High,4,2
+139,Server,2019-07-25,2022-07-24,10692,Compliance,Active,Caldwell Group,Carl Jones,Low,5,5
+140,Server,2020-02-09,2023-02-08,7580,Compliance,Retired,"Thompson, Wilson and Lewis",Lisa Richard,Low,2,6
+141,Storage,2024-12-31,2027-12-31,6673,Finance,Active,"Miller, Williams and Lowe",John Gilbert,High,2,8
+142,Laptop,2021-08-30,2024-08-29,1739,Risk,Retired,"Buchanan, Williams and Reyes",Stacey Faulkner,Medium,4,9
+143,Desktop,2020-08-21,2023-08-21,976,Finance,In Maintenance,Ford-Rodriguez,Mr. Jim Weaver,Medium,4,9
+144,Network Device,2025-02-01,2028-02-01,5354,Risk,Active,West-Zhang,Jordan Hall,High,3,2
+145,Network Device,2020-05-20,2023-05-20,5816,Compliance,Retired,Scott-Reeves,Dominique Washington,Medium,2,9
+146,Storage,2025-04-14,2028-04-13,5981,IT,In Maintenance,"Davis, Wilkinson and Johnson",Robert Johnson,Low,1,2
+147,Storage,2019-12-20,2022-12-19,5507,HR,Active,Riley-Berg,Mark Johnson,High,3,4
+148,Server,2023-12-30,2026-12-29,13501,HR,Active,"Davis, George and White",Adam Pittman,Medium,2,9
+149,Server,2024-09-15,2027-09-15,7050,Compliance,In Maintenance,Davis Ltd,Travis Graham,Low,5,2
+150,Storage,2024-02-29,2027-02-28,5762,Risk,Retired,Wheeler and Sons,Briana Newman,High,2,10
+151,Storage,2024-06-21,2027-06-21,8531,Risk,Active,Wilson PLC,Melissa Blair,High,1,1
+152,Storage,2019-12-08,2022-12-07,7336,Compliance,Active,"Hart, Wright and Henson",John Case,Low,4,10
+153,Laptop,2019-06-12,2022-06-11,2019,Compliance,Retired,Thomas-Blake,Nicole Holland,Medium,3,8
+154,Desktop,2021-07-10,2024-07-09,1631,HR,In Maintenance,"Walker, Hernandez and Wilson",Jose Hernandez,High,1,3
+155,Network Device,2019-09-21,2022-09-20,5404,Operations,In Maintenance,"Martin, Herrera and Banks",Chase Glover,High,3,10
+156,Desktop,2020-10-06,2023-10-06,1440,Compliance,In Maintenance,Kirby-Pruitt,Louis Curry,Low,3,7
+157,Desktop,2024-12-31,2027-12-31,1558,Risk,Retired,Gonzalez-Nelson,Jessica Snow,High,3,4
+158,Network Device,2019-07-11,2022-07-10,3003,HR,In Maintenance,Houston-Newton,Carolyn Brown,High,2,2
+159,Laptop,2024-07-27,2027-07-27,1594,Operations,Retired,Charles-Taylor,Shannon Larson,Medium,2,3
+160,Server,2018-03-16,2021-03-15,14464,Compliance,In Maintenance,Dunn Inc,Denise Ortiz,High,2,8
+161,Storage,2023-11-14,2026-11-13,10648,Operations,In Maintenance,"Wright, Lynn and Cooper",Brittney Pena,Medium,1,2
+162,Network Device,2023-08-10,2026-08-09,6140,Operations,Active,Welch PLC,Traci Johnson,High,5,6
+163,Laptop,2023-05-26,2026-05-25,1103,HR,In Maintenance,Cobb-Carlson,Harry Gonzalez,Low,4,5
+164,Storage,2022-01-25,2025-01-24,3133,Finance,In Maintenance,"Klein, Lindsey and Estrada",Shawn Foster,High,3,6
+165,Network Device,2024-12-10,2027-12-10,4997,Finance,In Maintenance,Mills PLC,Joel Cook,High,5,9
+166,Desktop,2022-01-02,2025-01-01,1542,Risk,In Maintenance,"Nelson, Abbott and Bush",Steven Bartlett,High,4,9
+167,Network Device,2024-04-27,2027-04-27,6504,HR,Retired,Krause LLC,Mary Brady,Low,5,2
+168,Desktop,2021-04-06,2024-04-05,998,Operations,In Maintenance,Bryant-Gonzalez,Nicole Ellison,Medium,5,6
+169,Desktop,2018-10-11,2021-10-10,1207,Risk,Retired,"Roberson, Whitehead and Johnson",Amanda Lee,Medium,5,1
+170,Laptop,2020-03-30,2023-03-30,1079,IT,Retired,"Brown, Guerrero and Martinez",Regina Ford MD,Medium,4,9
+171,Network Device,2020-02-06,2023-02-05,3220,Risk,Retired,Peters Group,Laura Griffith,High,3,10
+172,Server,2022-11-22,2025-11-21,7662,Operations,Retired,Todd-Park,Oscar Robinson,Low,3,10
+173,Server,2020-01-17,2023-01-16,13311,Risk,Retired,Curry PLC,April Thompson,Medium,5,5
+174,Network Device,2023-10-20,2026-10-19,2136,HR,In Maintenance,Rowe-Kramer,Casey Hicks,Low,1,7
+175,Storage,2024-05-12,2027-05-12,8040,Compliance,Retired,"Conrad, Fernandez and Williams",Christopher Miller,Low,1,10
+176,Network Device,2025-08-19,2028-08-18,4175,Compliance,Retired,Sanchez-Schmitt,Cynthia Orr,Low,2,1
+177,Storage,2021-01-15,2024-01-15,10871,IT,Retired,"Hodge, Williams and Smith",Cassandra James,Low,5,7
+178,Desktop,2024-04-05,2027-04-05,1296,Finance,Retired,Williams-Smith,Terry Miller,Low,1,4
+179,Laptop,2022-11-01,2025-10-31,1903,HR,In Maintenance,Parks and Sons,Joy Bond,High,4,4
+180,Network Device,2018-08-19,2021-08-18,6110,Risk,In Maintenance,Burnett Inc,Katherine Harris,Low,1,3
+181,Storage,2021-10-23,2024-10-22,6397,Risk,In Maintenance,"Baird, Garcia and Turner",Tanner Krause,Low,4,9
+182,Network Device,2023-08-06,2026-08-05,4570,IT,In Maintenance,"Mitchell, Harvey and Bennett",Michael Leblanc,Low,3,9
+183,Server,2025-09-05,2028-09-04,9331,Risk,In Maintenance,Lucas LLC,Holly Rowland,High,2,5
+184,Storage,2019-10-24,2022-10-23,7890,IT,In Maintenance,Perez-Gilbert,Stephen Bryant,Medium,2,8
+185,Server,2018-09-24,2021-09-23,12861,HR,Retired,"Gonzales, Stanley and Mays",Kimberly Perez,Low,3,5
+186,Laptop,2023-06-08,2026-06-07,2174,Compliance,Retired,Owens Ltd,Nicole Anderson,Medium,4,6
+187,Desktop,2020-04-06,2023-04-06,1394,Finance,In Maintenance,Strickland-Sanchez,Amber Mendez,Low,1,6
+188,Network Device,2024-07-24,2027-07-24,7373,HR,Retired,Brown-Byrd,Dr. Laura Hawkins,Medium,2,4
+189,Storage,2024-05-01,2027-05-01,7442,Risk,Retired,Duran and Sons,Bruce Watson,Medium,2,2
+190,Storage,2018-08-09,2021-08-08,6920,IT,Active,Wilson Group,Gary Walter,Low,5,4
+191,Desktop,2024-06-15,2027-06-15,907,Finance,In Maintenance,"Young, Mason and Jordan",Timothy Hayes,Medium,4,2
+192,Desktop,2025-03-03,2028-03-02,810,Risk,Active,Sanchez-Wood,Ryan Richardson,Medium,4,8
+193,Desktop,2020-04-11,2023-04-11,1388,HR,In Maintenance,"Hanson, Torres and Tran",Susan Martin,Low,1,2
+194,Storage,2018-12-25,2021-12-24,6804,Risk,Retired,Bailey PLC,Aaron Best,Low,1,3
+195,Network Device,2018-04-20,2021-04-19,3440,Finance,In Maintenance,Scott PLC,Frances Barnes,Medium,2,5
+196,Laptop,2020-06-11,2023-06-11,1018,HR,Retired,Smith-Knapp,Christine Chavez,Low,1,6
+197,Server,2020-07-29,2023-07-29,12444,Compliance,Retired,"Garrett, Ward and Mitchell",Peter Williams,Low,4,3
+198,Storage,2023-10-18,2026-10-17,10668,HR,Active,Carlson-Ali,Adam Smith,High,3,3
+199,Network Device,2019-12-16,2022-12-15,7310,HR,Retired,James-Wilkerson,Kenneth Harris,High,1,6
+200,Server,2018-10-14,2021-10-13,14302,Compliance,Active,Payne-Klein,Joanna Greene,High,5,7
+201,Network Device,2019-08-17,2022-08-16,6221,HR,Active,"Hernandez, Oconnor and Rodriguez",Christine Watson,Medium,1,3
+202,Desktop,2020-09-21,2023-09-21,1777,HR,Active,"Krause, Chandler and Barr",David Ellis MD,High,3,7
+203,Desktop,2018-04-02,2021-04-01,1714,HR,In Maintenance,"Powell, Jackson and Lambert",Edward Phelps,Medium,5,10
+204,Laptop,2024-04-11,2027-04-11,1535,Compliance,In Maintenance,"Newman, Gates and Lee",Paula Mcdaniel,Low,2,1
+205,Laptop,2021-10-09,2024-10-08,1953,HR,Active,"Stone, Butler and Smith",Rebecca Walker,Medium,5,5
+206,Laptop,2022-02-17,2025-02-16,2308,HR,In Maintenance,Gonzalez-Harper,Jennifer Deleon,Low,2,4
+207,Desktop,2020-06-01,2023-06-01,1779,IT,In Maintenance,Chandler and Sons,Evan Bruce,Low,5,6
+208,Network Device,2021-03-13,2024-03-12,7750,Risk,In Maintenance,"Galvan, Collins and Thompson",Brandon Larson,Low,2,4
+209,Storage,2023-10-12,2026-10-11,4341,Risk,In Maintenance,"Bradley, Hall and Huff",Scott Hernandez,Low,3,2
+210,Storage,2021-05-17,2024-05-16,4838,Finance,Retired,Benton-Roth,Dana Wong,Low,2,10
+211,Storage,2018-11-27,2021-11-26,5455,IT,In Maintenance,Francis-Ramirez,Jeffery Allen,Low,4,2
+212,Desktop,2018-06-25,2021-06-24,1994,Operations,Active,Johnson PLC,Jerry Valdez,Low,4,1
+213,Network Device,2020-03-27,2023-03-27,3080,Risk,In Maintenance,Rivers PLC,Terry Olsen,Medium,5,1
+214,Storage,2018-03-27,2021-03-26,10575,Compliance,In Maintenance,Keller Group,Susan Williams,Low,1,7
+215,Server,2021-05-18,2024-05-17,5049,Compliance,Active,"Hall, Richmond and Stephens",Curtis Williams,Low,1,1
+216,Network Device,2023-10-04,2026-10-03,4822,Compliance,Active,Anderson LLC,Anne Sawyer MD,Low,1,2
+217,Network Device,2018-08-03,2021-08-02,2259,HR,In Maintenance,Friedman Ltd,Brittany Perry,High,2,7
+218,Server,2020-08-06,2023-08-06,11266,Operations,In Maintenance,Young Inc,Kristin Sexton,Medium,1,9
+219,Desktop,2024-11-26,2027-11-26,1512,Finance,Active,Douglas Group,Christine Schultz,Low,4,9
+220,Desktop,2019-06-25,2022-06-24,1256,Finance,Active,Fletcher Group,Chad Shaffer,Medium,4,9
+221,Network Device,2022-04-19,2025-04-18,6357,Operations,Active,Castro Inc,Katrina Neal,High,4,6
+222,Desktop,2020-07-30,2023-07-30,1364,IT,Retired,"Malone, Rogers and Vasquez",Ronald Vazquez,High,1,7
+223,Storage,2021-04-07,2024-04-06,3256,IT,Active,Parks Inc,Andrea Vega,High,1,10
+224,Laptop,2024-03-11,2027-03-11,1914,Risk,Retired,"Cowan, Mills and Williams",Ian White,Low,1,4
+225,Laptop,2022-10-10,2025-10-09,1823,Operations,Active,Wilson and Sons,Samuel Davis,Low,2,1
+226,Desktop,2023-03-01,2026-02-28,1831,HR,Active,Newton-Reed,Lauren Phillips,Low,5,6
+227,Storage,2021-09-03,2024-09-02,8253,IT,In Maintenance,"Mendez, Barrett and Mason",Manuel Gallagher,High,5,4
+228,Network Device,2018-07-03,2021-07-02,4461,HR,Active,"Smith, Heath and Brown",Jeremy Martinez,Low,5,3
+229,Network Device,2022-04-13,2025-04-12,6553,Operations,Active,Benson-Rojas,Micheal Lewis,Medium,4,9
+230,Server,2019-03-01,2022-02-28,11821,Operations,Active,"Kennedy, Simon and Anderson",April Moreno,Medium,4,3
+231,Storage,2022-09-29,2025-09-28,10758,IT,Active,Garrett Group,Elizabeth Lewis,Medium,2,8
+232,Laptop,2024-10-30,2027-10-30,2151,Operations,In Maintenance,"Lopez, Brooks and Williams",Jay Hernandez,Low,5,3
+233,Network Device,2024-10-16,2027-10-16,3989,HR,Active,Bell and Sons,Jason Simpson,Medium,1,8
+234,Server,2025-07-01,2028-06-30,6514,Risk,Retired,"Martinez, Kim and Chase",Jaime Jordan,High,1,5
+235,Network Device,2025-09-17,2028-09-16,7518,Risk,Retired,Hill-Gallagher,Travis Hernandez,High,1,4
+236,Storage,2019-04-24,2022-04-23,6555,Operations,Active,Moore Ltd,Denise Lin,Medium,3,1
+237,Desktop,2018-04-07,2021-04-06,1189,Compliance,Active,Smith PLC,Megan Heath,Low,4,4
+238,Storage,2025-05-02,2028-05-01,6350,Operations,Active,Day-Mason,Thomas Hart,Low,3,5
+239,Network Device,2023-09-06,2026-09-05,5819,Risk,Retired,"Lee, Benitez and Mitchell",Brandon Wade,Medium,3,5
+240,Server,2022-08-21,2025-08-20,13401,Operations,In Maintenance,"Townsend, Wilson and Black",Megan Rose,High,4,6
+241,Desktop,2022-06-18,2025-06-17,1559,HR,In Maintenance,Gross-Conrad,Jessica Green,High,5,4
+242,Desktop,2020-03-24,2023-03-24,833,HR,Retired,Taylor-Reed,Stephanie Combs,Low,5,7
+243,Server,2020-12-13,2023-12-13,7497,IT,In Maintenance,Brown Ltd,Joel Humphrey,High,4,10
+244,Desktop,2018-05-31,2021-05-30,1822,Risk,Retired,Allen PLC,James Hendrix,Low,3,5
+245,Network Device,2021-03-05,2024-03-04,7927,Compliance,Retired,"Levine, Diaz and Manning",Brian Valdez,Medium,4,3
+246,Server,2023-02-10,2026-02-09,7773,IT,Retired,Li-Cain,Aaron Flynn,Low,4,3
+247,Storage,2018-05-03,2021-05-02,3962,Risk,Active,Johnson-Martinez,Carla Hart,High,1,1
+248,Network Device,2018-04-07,2021-04-06,3126,Compliance,Active,Martin LLC,Larry Davis,High,2,1
+249,Desktop,2019-09-23,2022-09-22,1835,Operations,In Maintenance,Robinson PLC,Tina Russell,High,5,10
+250,Network Device,2019-01-29,2022-01-28,7400,Operations,Active,"Perez, Holmes and Williams",Sara Morris,High,5,9
+251,Network Device,2024-12-22,2027-12-22,2097,Finance,Retired,"Davis, Mason and Parker",Anthony Robinson,Low,3,9
+252,Server,2025-01-28,2028-01-28,5280,Risk,Retired,Bartlett-Morales,Cheryl Harrell,Low,4,3
+253,Laptop,2021-04-13,2024-04-12,1197,Risk,Active,Lynch Ltd,Deborah Bryant,High,2,10
+254,Storage,2023-11-25,2026-11-24,7135,HR,In Maintenance,"Allen, Chapman and Pierce",Isaiah Tucker,Medium,1,6
+255,Network Device,2019-04-29,2022-04-28,5760,Risk,Active,Payne-Baker,Sarah Hernandez,Low,2,5
+256,Laptop,2022-10-20,2025-10-19,2338,Compliance,Active,Neal Inc,Alejandro Brown,High,4,7
+257,Network Device,2021-05-23,2024-05-22,6527,Operations,Active,"Martin, Holder and Luna",Michael Austin,Low,1,3
+258,Laptop,2019-03-31,2022-03-30,2023,Operations,Retired,Bell Inc,Keith Reed,Medium,5,2
+259,Storage,2023-12-25,2026-12-24,3697,IT,Active,Reese-Lawson,Vanessa Carpenter,Low,5,8
+260,Server,2018-11-12,2021-11-11,5762,Finance,Retired,Goodwin-Anderson,Amy Garcia,Medium,5,10
+261,Laptop,2020-01-16,2023-01-15,1367,HR,Active,Wagner Inc,Tonya Thompson,High,5,3
+262,Network Device,2025-10-13,2028-10-12,2630,HR,Active,"Reed, Jensen and Foster",Caleb Houston,Low,2,10
+263,Network Device,2018-08-04,2021-08-03,7546,Risk,In Maintenance,"Robinson, Rogers and Escobar",Jeffrey Brown,Medium,2,2
+264,Storage,2024-11-09,2027-11-09,8666,Finance,Active,Mahoney-Adams,Anna King,Medium,2,2
+265,Server,2025-12-15,2028-12-14,14915,Risk,Retired,Williams-Fischer,Anita Jones,Medium,3,1
+266,Server,2024-07-18,2027-07-18,12381,Operations,Active,Schmidt-Bradley,Lori Bailey,Medium,5,7
+267,Network Device,2021-09-10,2024-09-09,3521,Compliance,Retired,Wilson Ltd,Jessica Waters,Low,4,2
+268,Storage,2019-03-27,2022-03-26,7839,IT,Retired,King-Goodman,Jennifer Smith,High,1,5
+269,Desktop,2018-04-27,2021-04-26,1578,Compliance,Retired,Green-Hall,Robert Smith,High,4,6
+270,Server,2020-01-18,2023-01-17,6745,Finance,Active,Washington PLC,Scott Jackson,Medium,4,6
+271,Server,2020-04-25,2023-04-25,6674,IT,Active,Banks-White,Alan Dunn,High,4,8
+272,Storage,2022-06-05,2025-06-04,11395,Operations,Active,Blake PLC,Joshua Houston,High,1,6
+273,Storage,2021-02-20,2024-02-20,4524,Risk,Retired,Matthews PLC,Samuel Watkins,Medium,4,1
+274,Server,2023-01-05,2026-01-04,11779,Operations,Active,Johnson-Aguilar,Evelyn Perry,Low,5,4
+275,Storage,2022-10-20,2025-10-19,11537,IT,Retired,Houston Ltd,Brooke Gardner,Medium,2,3
+276,Server,2022-03-24,2025-03-23,9933,HR,In Maintenance,"Johnson, Norman and House",Andrea Davis,High,1,3
+277,Network Device,2018-11-14,2021-11-13,4260,Operations,In Maintenance,Moody-Harris,John Hogan,Medium,1,6
+278,Server,2019-09-04,2022-09-03,9040,Compliance,Retired,"Adams, Jones and Pacheco",Austin Payne,Medium,5,10
+279,Desktop,2025-12-31,2028-12-30,1737,Finance,Active,"Lopez, Robinson and Lopez",Mary Green,Medium,1,7
+280,Server,2024-09-01,2027-09-01,11224,HR,In Maintenance,Newman-Christensen,Carlos Fitzgerald,Medium,4,10
+281,Desktop,2021-11-04,2024-11-03,1415,HR,Retired,Brown Group,Michael Lucero,Low,2,8
+282,Server,2020-12-09,2023-12-09,7910,Operations,In Maintenance,Harris-Phillips,Ashley Bowers,Medium,4,10
+283,Desktop,2025-03-11,2028-03-10,1467,Operations,In Maintenance,Stewart LLC,Jeremiah Cohen,Medium,3,2
+284,Storage,2024-04-28,2027-04-28,6273,Risk,Retired,Stewart Group,Jason Carter,High,5,1
+285,Network Device,2025-09-01,2028-08-31,7802,IT,In Maintenance,Schmidt LLC,Jacqueline Li,Medium,1,7
+286,Network Device,2018-12-20,2021-12-19,3140,Compliance,In Maintenance,"Farley, Watson and Flores",David Galvan,High,3,3
+287,Network Device,2020-09-06,2023-09-06,5088,Finance,In Maintenance,Estes-Garrett,Tina Gardner,Low,4,10
+288,Network Device,2024-07-19,2027-07-19,6377,Risk,Retired,Johnson LLC,Marcus Wood,Medium,5,1
+289,Server,2024-08-14,2027-08-14,13796,Risk,Retired,Frazier Group,Morgan Hale,High,1,4
+290,Server,2023-02-20,2026-02-19,7725,Compliance,Retired,Mendoza Group,Shawn Austin,High,5,7
+291,Server,2024-01-16,2027-01-15,12052,Finance,Active,Lawrence-Johnson,Tony Andrews,High,3,4
+292,Storage,2018-04-22,2021-04-21,11499,Risk,Retired,Mayer-Hardy,Regina Cooley,Low,5,4
+293,Network Device,2022-06-19,2025-06-18,5064,Operations,In Maintenance,"Baker, Taylor and Martin",Mike Chambers,Low,5,9
+294,Desktop,2023-03-24,2026-03-23,1506,Finance,In Maintenance,"Young, Jones and Martin",Shari Barrett,High,3,7
+295,Laptop,2018-07-29,2021-07-28,1237,Compliance,Active,Morris-Reynolds,Jesse Ray,Medium,3,6
+296,Network Device,2025-07-25,2028-07-24,3694,Risk,In Maintenance,Garcia-Richardson,Alicia Robertson,Medium,4,2
+297,Network Device,2022-12-27,2025-12-26,7914,Compliance,In Maintenance,Delgado and Sons,Alexander Sharp,Medium,1,5
+298,Laptop,2022-05-04,2025-05-03,2455,Finance,Active,"Henry, Malone and Ramos",Samantha Haley,Medium,1,3
+299,Desktop,2018-07-29,2021-07-28,1856,IT,Retired,Brown Ltd,Mary Roberts,High,3,9
+300,Network Device,2018-07-13,2021-07-12,5785,IT,In Maintenance,"Williams, Allen and Matthews",Jade Mitchell,Low,2,3
+301,Network Device,2020-10-26,2023-10-26,5240,Finance,Retired,"Baker, Klein and Mahoney",Frank Quinn,Low,2,8
+302,Storage,2025-03-16,2028-03-15,10037,Operations,Active,"Moore, Young and Gallegos",Jennifer Griffith,Low,2,4
+303,Server,2023-11-24,2026-11-23,6025,Risk,Active,"Pope, Fisher and Kirk",Mr. John Taylor,Low,2,6
+304,Server,2025-01-28,2028-01-28,8228,Operations,Active,Owens Ltd,Kristin Martin,Medium,4,9
+305,Server,2019-06-18,2022-06-17,14780,Operations,Retired,"Dodson, Lawson and Gomez",Pamela Jones,Medium,5,2
+306,Server,2020-01-15,2023-01-14,10766,Operations,Retired,"Hudson, Johnson and Richardson",Travis Hicks,High,3,10
+307,Storage,2022-12-16,2025-12-15,4388,Compliance,Active,Cook-Anderson,Jason Benton,Medium,1,4
+308,Server,2018-06-11,2021-06-10,6916,IT,In Maintenance,"Reed, Hernandez and Deleon",Christine Brennan,Low,2,9
+309,Network Device,2020-01-25,2023-01-24,5426,Risk,Active,Mclean Ltd,Sheena Lewis,Low,4,7
+310,Desktop,2022-07-30,2025-07-29,1796,Compliance,Retired,"Gutierrez, Young and Brown",Randall Jacobs,Low,2,9
+311,Desktop,2018-11-09,2021-11-08,1802,HR,Active,"Coleman, Watts and Lee",Austin King,High,3,8
+312,Storage,2021-02-15,2024-02-15,3878,HR,Active,Martinez PLC,April Nichols,Medium,2,4
+313,Network Device,2021-06-21,2024-06-20,6600,Risk,Retired,Wood and Sons,Susan Morrison,Medium,4,8
+314,Network Device,2025-06-08,2028-06-07,7817,Operations,In Maintenance,Nguyen-Andrews,Jackson Myers,High,1,10
+315,Laptop,2023-07-01,2026-06-30,1451,HR,Active,Perez Group,Ruth Whitehead,Medium,2,9
+316,Server,2020-10-02,2023-10-02,7755,Operations,Retired,Hunter-Coleman,William Cabrera,Low,4,9
+317,Storage,2019-11-20,2022-11-19,4854,Risk,Active,Wright LLC,Jessica Parker,Medium,5,6
+318,Storage,2024-08-21,2027-08-21,3681,Compliance,In Maintenance,Harris-Lane,David Huff,Low,2,7
+319,Laptop,2025-12-14,2028-12-13,2338,IT,In Maintenance,"Bean, Velazquez and Williams",Aaron Guerra,High,4,5
+320,Server,2018-03-05,2021-03-04,6425,Operations,Active,Sanchez Group,Audrey Smith,High,2,10
+321,Server,2023-08-02,2026-08-01,14998,Compliance,In Maintenance,"Myers, Blankenship and Sandoval",David Duran,High,5,3
+322,Desktop,2020-01-30,2023-01-29,1223,Finance,Retired,"Gallegos, Sellers and Lewis",Bradley Fry,Medium,5,5
+323,Storage,2025-07-16,2028-07-15,11827,IT,In Maintenance,"Lewis, Schaefer and Melendez",William Estrada,Low,3,5
+324,Storage,2025-05-15,2028-05-14,7380,Risk,Retired,"Chan, Gutierrez and Miller",Mr. Donald Phillips,High,2,7
+325,Laptop,2021-03-05,2024-03-04,1567,Compliance,Active,"Parker, Stokes and Doyle",Rebecca Graham,Low,2,4
+326,Desktop,2020-05-16,2023-05-16,1459,IT,Retired,Barrera-Johnson,Carlos Peck,Medium,4,3
+327,Storage,2021-11-15,2024-11-14,7402,Compliance,In Maintenance,Walker-Larson,Ashley Smith,Medium,4,2
+328,Laptop,2022-11-09,2025-11-08,1825,Risk,Retired,Martin and Sons,Robin Miller DVM,Medium,3,8
+329,Network Device,2024-09-04,2027-09-04,4681,Risk,Active,Wilson LLC,Austin Salas,Low,1,8
+330,Server,2023-05-18,2026-05-17,6037,Risk,In Maintenance,Schneider Inc,Jack Schultz,High,4,4
+331,Network Device,2023-11-01,2026-10-31,4199,HR,In Maintenance,"Young, Wood and Wagner",Scott Harvey,Medium,5,10
+332,Desktop,2024-09-21,2027-09-21,1959,Operations,In Maintenance,Miller-Lawrence,Carrie Silva,Low,1,1
+333,Laptop,2019-06-17,2022-06-16,2282,Operations,Active,Gray LLC,Barbara Lewis,High,2,8
+334,Network Device,2024-07-01,2027-07-01,2005,Operations,Active,Mayer-Doyle,Danielle Phillips,Low,2,5
+335,Desktop,2024-07-03,2027-07-03,1361,Finance,Retired,"Chaney, Sharp and Martinez",Daniel Anderson,Medium,3,2
+336,Server,2018-02-18,2021-02-17,7711,Finance,In Maintenance,"Keller, Butler and Fuentes",Christina Lee,Low,3,4
+337,Network Device,2018-09-16,2021-09-15,7369,Finance,Retired,Gomez-Lewis,Joseph Griffin,High,1,4
+338,Network Device,2018-10-15,2021-10-14,2638,IT,Retired,Ellis PLC,Joshua Mendoza,High,5,8
+339,Laptop,2024-10-14,2027-10-14,1016,Compliance,In Maintenance,Miller Ltd,Cathy Gutierrez,High,4,3
+340,Network Device,2023-02-04,2026-02-03,2580,IT,In Maintenance,"Nguyen, Blake and Wilson",Michael Ramirez,High,1,2
+341,Server,2022-01-15,2025-01-14,11022,HR,Active,"Mendoza, Bennett and Shields",Valerie Hughes,Medium,2,3
+342,Laptop,2025-03-13,2028-03-12,2086,Risk,Active,Fitzgerald Group,Raymond Sweeney,Low,2,8
+343,Server,2018-08-03,2021-08-02,8490,Compliance,Retired,"Snyder, Martin and Cole",Karen Harris,High,4,10
+344,Network Device,2025-07-07,2028-07-06,3779,Finance,Active,Thomas and Sons,Mr. Derek Roth,High,1,10
+345,Network Device,2020-01-17,2023-01-16,4879,Operations,In Maintenance,"Allen, Mclaughlin and Johnson",Kyle Austin,High,2,5
+346,Laptop,2019-02-11,2022-02-10,1508,Risk,Retired,"Davis, Oliver and Jones",Laurie Adams,Low,5,5
+347,Laptop,2025-05-26,2028-05-25,2348,HR,Active,Colon-Robbins,Natalie Swanson,Low,5,9
+348,Desktop,2021-02-15,2024-02-15,1602,HR,Retired,"Johnson, Taylor and Green",Calvin Gonzalez,High,2,8
+349,Network Device,2019-04-27,2022-04-26,2923,IT,In Maintenance,Mitchell-Stevenson,Joe Abbott,Low,5,2
+350,Storage,2023-01-23,2026-01-22,3197,HR,In Maintenance,Flores-James,Eric Jones,High,4,10
+351,Network Device,2023-04-01,2026-03-31,4993,Risk,Retired,"Charles, Green and Hill",Stacey Harper,High,4,2
+352,Laptop,2018-08-24,2021-08-23,2202,Finance,Active,Bolton-Roberts,Monica Smith,Medium,2,1
+353,Laptop,2025-06-21,2028-06-20,1815,Risk,In Maintenance,Curtis-Murphy,Brenda Young,Low,5,7
+354,Network Device,2023-03-10,2026-03-09,7749,Operations,Active,Robles-Gardner,Gina Diaz,Low,5,9
+355,Storage,2023-02-12,2026-02-11,5501,HR,Active,Reeves-Miles,Tiffany Mason,Medium,1,9
+356,Desktop,2024-02-29,2027-02-28,1118,Risk,In Maintenance,Robles-Rodgers,Elizabeth Lewis,Medium,5,2
+357,Server,2022-03-01,2025-02-28,12167,Compliance,Active,"Chandler, Sanders and Russo",James Campbell MD,High,2,2
+358,Network Device,2024-01-19,2027-01-18,2950,Operations,Retired,Herrera-Floyd,Mr. Antonio Hayes Jr.,Low,1,5
+359,Desktop,2023-12-09,2026-12-08,1044,Finance,Retired,Curtis Group,Linda Andrews,High,1,3
+360,Network Device,2022-10-24,2025-10-23,4840,Risk,Retired,Smith PLC,Russell Spence,Low,3,3
+361,Server,2021-11-08,2024-11-07,7079,Compliance,In Maintenance,Kennedy Ltd,Scott Meza,Low,1,1
+362,Server,2021-06-25,2024-06-24,12034,HR,Retired,Williams Inc,Stephanie Baker,High,3,10
+363,Laptop,2023-12-27,2026-12-26,2016,Operations,Retired,"Thomas, Singleton and Garcia",Haley Bradley,Medium,1,8
+364,Storage,2018-03-26,2021-03-25,5734,HR,Active,"Johnson, Hanna and Knight",Kelly Oliver,Medium,1,10
+365,Laptop,2024-11-24,2027-11-24,1467,Compliance,Retired,"Howe, Brown and King",Nancy Ellis,High,1,1
+366,Desktop,2023-03-05,2026-03-04,894,Operations,In Maintenance,Eaton-Clements,John Ryan,Medium,2,3
+367,Laptop,2018-09-23,2021-09-22,2132,Compliance,Retired,Black Group,Joel Barr,Low,4,4
+368,Server,2019-10-02,2022-10-01,9067,Operations,Retired,Raymond Inc,Monica Henderson,Medium,3,2
+369,Storage,2025-01-02,2028-01-02,9108,Finance,Retired,Bailey Ltd,Nicolas Sandoval,Low,1,3
+370,Desktop,2021-07-08,2024-07-07,1856,Finance,In Maintenance,"Hale, Johnson and Brown",Jimmy Hopkins,High,4,5
+371,Server,2022-06-16,2025-06-15,10362,Finance,Retired,Moody PLC,Ryan Velez,Medium,1,6
+372,Desktop,2022-06-23,2025-06-22,1397,Risk,In Maintenance,Scott Inc,Taylor Wagner,Low,5,4
+373,Network Device,2023-04-14,2026-04-13,5016,Risk,In Maintenance,"Berger, Raymond and Freeman",Zachary Thomas,High,5,4
+374,Desktop,2018-04-02,2021-04-01,813,Operations,Active,Green Inc,Cynthia Klein,High,5,6
+375,Laptop,2019-10-15,2022-10-14,1686,Finance,Retired,Mckenzie LLC,Brittany Frazier,Medium,3,2
+376,Desktop,2023-10-06,2026-10-05,1885,IT,In Maintenance,Martinez and Sons,Christopher Collier,Medium,1,3
+377,Server,2021-04-23,2024-04-22,6524,Finance,Active,"Page, Kent and Price",Jason Hernandez,Low,4,6
+378,Network Device,2025-03-05,2028-03-04,2695,Risk,Active,"Cox, Peters and Klein",Thomas Lopez,Low,2,7
+379,Laptop,2025-12-21,2028-12-20,2212,Risk,Active,Moore-Crawford,Joseph Vasquez,Medium,2,4
+380,Server,2025-02-06,2028-02-06,9276,HR,In Maintenance,Summers-Warner,Michael Brown,Low,3,6
+381,Network Device,2022-05-27,2025-05-26,4227,IT,Active,"Mcintyre, Mack and Ramos",Melissa Johnson,High,2,10
+382,Laptop,2020-06-30,2023-06-30,1318,Finance,Active,"Jackson, Nguyen and Reid",Karen Hartman,Medium,4,6
+383,Network Device,2019-04-14,2022-04-13,2989,Risk,In Maintenance,Whitaker PLC,Crystal Jarvis,High,4,5
+384,Network Device,2025-03-14,2028-03-13,4170,Finance,Active,Robinson Group,Robert Long,High,3,10
+385,Laptop,2019-03-03,2022-03-02,1440,HR,Active,Yoder-Porter,Pamela Rogers,High,2,6
+386,Network Device,2018-12-04,2021-12-03,6206,Finance,Retired,Garrett-Bray,Jonathan Richards,Medium,3,3
+387,Laptop,2023-06-06,2026-06-05,1828,Operations,Retired,Henderson LLC,Sandra Gray,Low,5,4
+388,Laptop,2019-04-15,2022-04-14,1946,Finance,Active,"Austin, Taylor and Duncan",Eric Thompson,High,1,1
+389,Desktop,2025-01-26,2028-01-26,1067,IT,In Maintenance,Patel PLC,April Garcia,Medium,1,10
+390,Storage,2022-01-15,2025-01-14,7240,Finance,Active,"Doyle, Knapp and Martin",Kristen Wright,High,2,8
+391,Desktop,2021-10-24,2024-10-23,988,HR,Active,Jenkins PLC,Rachel Martin,High,4,1
+392,Desktop,2025-07-10,2028-07-09,1975,Operations,Retired,"Conley, Taylor and Harmon",Glenda Miller,Medium,4,1
+393,Network Device,2022-11-24,2025-11-23,7596,Operations,Active,Moore-Alvarez,Kimberly Hunter,Medium,2,3
+394,Server,2024-02-18,2027-02-17,9585,Operations,Active,"Ballard, Bell and King",Daniel Johnson,High,5,10
+395,Storage,2020-06-24,2023-06-24,7026,Compliance,In Maintenance,Willis-Wheeler,Jonathan Davis,Medium,4,9
+396,Network Device,2025-08-09,2028-08-08,2499,Finance,In Maintenance,"Cook, Quinn and Dickson",Rita Griffin,Medium,2,7
+397,Desktop,2026-02-05,2029-02-04,1876,IT,Retired,"Martin, Miller and Zavala",Hunter Woods,Low,1,7
+398,Server,2020-12-03,2023-12-03,12859,Risk,In Maintenance,"Welch, Garcia and Bruce",Albert Johnson,Medium,5,9
+399,Server,2025-07-31,2028-07-30,11363,HR,Active,Green LLC,Gerald Holt,High,3,10
+400,Desktop,2020-05-27,2023-05-27,860,HR,Active,Maxwell Group,Willie James,Medium,5,6
+401,Storage,2021-09-14,2024-09-13,6813,IT,Active,Smith-Santos,Michael Hernandez,High,2,5
+402,Storage,2022-09-02,2025-09-01,3916,IT,Retired,"Anderson, Torres and Arellano",Scott Cline,Medium,3,3
+403,Desktop,2023-11-01,2026-10-31,1284,Risk,In Maintenance,Harrison-Campbell,Henry Baldwin,Low,3,10
+404,Laptop,2018-03-24,2021-03-23,2440,Compliance,In Maintenance,Moore-Wood,Angela Cole,Low,5,3
+405,Storage,2025-05-09,2028-05-08,6084,Operations,Retired,Harrison-Parker,Sabrina Hughes,Medium,2,8
+406,Laptop,2022-06-21,2025-06-20,1184,Finance,Active,Soto and Sons,Antonio Morales,Low,2,1
+407,Storage,2024-05-07,2027-05-07,10831,Finance,In Maintenance,Goodwin-Oconnor,Scott Juarez,Low,2,3
+408,Server,2025-08-20,2028-08-19,7907,HR,Active,Bishop and Sons,Elizabeth Robinson,High,2,10
+409,Desktop,2022-06-25,2025-06-24,1027,Risk,In Maintenance,Aguirre-Brown,Elizabeth Byrd MD,High,3,7
+410,Storage,2019-09-06,2022-09-05,4655,HR,In Maintenance,Kirk-Wallace,Victoria Ellis,Medium,2,3
+411,Network Device,2024-04-02,2027-04-02,7236,Operations,Retired,"Owens, Phillips and Henson",Todd Jacobson,Medium,2,9
+412,Storage,2023-03-15,2026-03-14,8846,IT,Retired,Fields and Sons,Heather Marshall,Low,2,7
+413,Server,2024-09-04,2027-09-04,9825,IT,Active,Scott Group,Anthony Payne,Low,1,10
+414,Network Device,2021-10-26,2024-10-25,6648,Finance,Active,Cook LLC,David Schroeder,Low,3,10
+415,Desktop,2021-08-15,2024-08-14,1958,Finance,In Maintenance,Price LLC,Ashley Oliver,High,3,2
+416,Desktop,2020-09-01,2023-09-01,1510,HR,Active,Mcpherson-Johnson,Pamela Boyer,Low,1,6
+417,Network Device,2022-04-18,2025-04-17,2093,HR,Active,Thomas LLC,Cassie Sampson,High,1,6
+418,Server,2022-08-10,2025-08-09,6770,Compliance,Active,Peterson Group,Samuel Perez,High,4,8
+419,Network Device,2024-05-19,2027-05-19,3362,Operations,In Maintenance,Parker Ltd,Joseph Vang,Medium,3,9
+420,Network Device,2022-12-10,2025-12-09,2830,Operations,Retired,Chen PLC,Richard Stokes,Low,2,3
+421,Network Device,2023-10-02,2026-10-01,2603,Finance,In Maintenance,"Smith, Velasquez and White",Philip Mcguire,High,3,5
+422,Laptop,2022-11-07,2025-11-06,1151,HR,Active,Pace Ltd,Lucas Murphy,Medium,2,2
+423,Storage,2018-12-11,2021-12-10,4525,HR,Retired,"Ramirez, Jennings and Michael",William Melendez,Low,4,1
+424,Network Device,2022-07-18,2025-07-17,7354,IT,Retired,Williams Inc,Madeline Davis,Medium,2,1
+425,Laptop,2025-02-15,2028-02-15,1678,IT,Active,Ayers PLC,Stacy Ryan,Medium,5,9
+426,Server,2020-12-06,2023-12-06,9612,HR,Active,Andrews Inc,Angela Levy,High,1,7
+427,Storage,2019-10-18,2022-10-17,11043,IT,Active,"Morgan, Stewart and Watson",David Bentley,Medium,1,7
+428,Laptop,2023-10-25,2026-10-24,1603,Compliance,Retired,Cameron and Sons,Douglas Nichols,Low,4,4
+429,Laptop,2022-04-19,2025-04-18,1052,IT,Active,Smith Inc,Steve Chambers,Low,3,2
+430,Network Device,2022-03-18,2025-03-17,2946,HR,In Maintenance,Hernandez Group,Erika Lee,Medium,4,5
+431,Laptop,2022-07-17,2025-07-16,2314,Risk,In Maintenance,"Maxwell, Obrien and Munoz",Travis Young,High,3,7
+432,Server,2019-05-28,2022-05-27,8056,Operations,Active,Wood Group,Christopher White,Medium,4,8
+433,Server,2019-01-23,2022-01-22,8706,HR,Retired,Lee Group,Christopher Frye,High,2,2
+434,Laptop,2025-01-09,2028-01-09,2368,HR,Retired,Blanchard and Sons,Brian May,Medium,5,4
+435,Storage,2023-04-27,2026-04-26,3999,Operations,Retired,Lopez Ltd,Margaret Spears,Medium,5,8
+436,Storage,2018-03-12,2021-03-11,6860,Operations,In Maintenance,Wright-Campos,Douglas Livingston,High,4,1
+437,Storage,2025-10-20,2028-10-19,11467,Risk,Retired,Valdez-Patton,Ryan Fowler,Low,2,2
+438,Network Device,2021-01-25,2024-01-25,3416,IT,Active,"Cruz, Aguilar and Roberts",Jeffrey Murphy,High,2,1
+439,Network Device,2018-09-30,2021-09-29,2641,Compliance,In Maintenance,Wyatt and Sons,Autumn Orr,High,2,10
+440,Server,2022-08-23,2025-08-22,10238,Compliance,Active,"Gould, Tran and Roberts",Jonathan Herrera,High,4,9
+441,Network Device,2020-11-09,2023-11-09,6522,HR,In Maintenance,"Smith, Ortiz and Hill",Victor Adams,Low,4,1
+442,Storage,2023-05-04,2026-05-03,11561,Operations,Active,"Sanchez, Jackson and Lynch",Ryan Morales,Medium,2,3
+443,Storage,2023-01-06,2026-01-05,4641,Finance,Retired,Evans Ltd,Jodi Bennett,High,3,9
+444,Server,2024-01-27,2027-01-26,11732,HR,In Maintenance,Irwin Group,Alejandro Jennings,Low,4,10
+445,Storage,2020-10-11,2023-10-11,10750,Finance,Active,Bautista-Michael,Hunter Best,Medium,4,3
+446,Storage,2022-07-08,2025-07-07,9581,Finance,In Maintenance,Hernandez Ltd,Donna Golden,Medium,2,1
+447,Network Device,2022-01-29,2025-01-28,4200,HR,Active,Jones-Hall,Victoria Mcfarland,Medium,3,5
+448,Server,2018-07-02,2021-07-01,13054,Compliance,Retired,Villarreal-Wong,Taylor Davis,High,2,3
+449,Server,2022-08-03,2025-08-02,12259,HR,In Maintenance,Wheeler-Jones,Tracy Flores,Low,4,10
+450,Laptop,2021-10-17,2024-10-16,1384,Operations,Active,Young and Sons,Lori Levine,Medium,4,9
+451,Server,2023-12-03,2026-12-02,5920,Risk,Active,Wright PLC,Beverly Lewis,High,3,9
+452,Network Device,2020-08-27,2023-08-27,3111,Risk,Retired,"Werner, White and Garrison",Melissa Werner,High,2,4
+453,Desktop,2018-08-16,2021-08-15,918,IT,Active,"Williams, Owen and Hamilton",Mr. Jeffery Garcia DDS,Medium,1,6
+454,Desktop,2025-05-03,2028-05-02,1361,HR,In Maintenance,Murillo and Sons,Michael Oliver,Low,4,2
+455,Laptop,2024-12-21,2027-12-21,1495,HR,In Maintenance,Gray Ltd,Nicholas Mcdonald,Low,4,3
+456,Network Device,2023-06-28,2026-06-27,6807,Risk,In Maintenance,Kemp LLC,Michael Leach,Medium,2,5
+457,Laptop,2020-07-05,2023-07-05,1583,Finance,In Maintenance,Dominguez-Gallegos,Brandon Johnston,High,2,10
+458,Desktop,2024-11-18,2027-11-18,1253,Compliance,Active,Smith LLC,Brian Simmons,Low,2,5
+459,Network Device,2019-04-28,2022-04-27,6204,Finance,Retired,Sweeney Ltd,Katherine Mclean,High,4,3
+460,Desktop,2024-01-09,2027-01-08,817,IT,In Maintenance,"Copeland, Hernandez and Bryant",Richard Pearson,Low,3,5
+461,Network Device,2023-05-14,2026-05-13,5084,HR,In Maintenance,Williams-Howe,Robert Rivas,Medium,2,8
+462,Server,2018-12-12,2021-12-11,13530,Risk,In Maintenance,Cummings-Anderson,Nicholas Green,Low,1,1
+463,Storage,2025-10-25,2028-10-24,9131,Risk,Retired,White Ltd,Julia Golden,Low,5,5
+464,Server,2022-06-28,2025-06-27,6771,Operations,Active,"Freeman, Gordon and Murphy",Jason Nelson,Medium,3,6
+465,Server,2023-05-12,2026-05-11,9278,Compliance,Retired,Reid-Gutierrez,Ricky Kim,Low,3,4
+466,Desktop,2019-08-03,2022-08-02,1859,IT,Active,Williams Inc,Emma Taylor,Low,4,6
+467,Desktop,2025-05-20,2028-05-19,852,Compliance,In Maintenance,Sanchez-Horton,Jason Downs,Medium,3,7
+468,Network Device,2019-01-05,2022-01-04,5180,Compliance,Active,Nguyen Ltd,James Aguilar,Low,5,4
+469,Server,2022-03-08,2025-03-07,8643,Compliance,Retired,Hensley Ltd,Amy Johnson,Low,4,6
+470,Storage,2020-07-20,2023-07-20,7918,IT,Retired,Kane-Bailey,Karen Hebert,Low,2,5
+471,Laptop,2018-07-17,2021-07-16,1964,IT,Retired,Tucker-Williams,Elizabeth Obrien,Medium,5,3
+472,Server,2022-08-19,2025-08-18,6463,IT,In Maintenance,"Campbell, Curry and Smith",Ronald Stone,High,3,7
+473,Server,2021-03-31,2024-03-30,11089,HR,Retired,"Cook, Brown and Williams",Bob Reynolds,Medium,4,2
+474,Network Device,2022-03-05,2025-03-04,2439,Compliance,Retired,"Diaz, Nelson and Boone",Jane Sanchez,Low,5,2
+475,Network Device,2023-09-08,2026-09-07,3593,Risk,Active,Yates-White,Brandon Guzman,Low,4,9
+476,Server,2023-01-29,2026-01-28,11768,Finance,Active,Golden-Foley,Jennifer James,High,2,6
+477,Network Device,2019-03-17,2022-03-16,6664,Operations,Active,"Hernandez, Hansen and Lopez",Brandon Welch,Medium,2,2
+478,Network Device,2019-09-02,2022-09-01,4724,Compliance,Active,Schultz Inc,Alicia Bailey,Medium,1,1
+479,Network Device,2025-11-15,2028-11-14,4240,IT,Active,"Diaz, Perry and Swanson",Kaylee Pearson,Low,2,8
+480,Laptop,2022-02-14,2025-02-13,1265,Risk,In Maintenance,"Gates, Francis and Jones",Courtney Johns,Low,4,7
+481,Network Device,2019-08-02,2022-08-01,5910,Operations,Active,Gutierrez and Sons,Megan Smith,High,5,4
+482,Server,2021-06-10,2024-06-09,5230,HR,Retired,"Lee, Hayes and Black",Lori Cooper,High,1,1
+483,Desktop,2021-10-30,2024-10-29,1263,Compliance,In Maintenance,Snyder-Brown,Ashley Perry,Medium,2,2
+484,Network Device,2020-07-22,2023-07-22,6123,Risk,In Maintenance,Murphy PLC,Francisco Green,High,1,1
+485,Server,2024-06-24,2027-06-24,9764,Operations,Retired,Oneill Ltd,Tiffany Nichols,Low,5,9
+486,Server,2024-07-13,2027-07-13,12105,Compliance,Active,"Henderson, Roberson and Peterson",Dr. Veronica Branch,Medium,4,6
+487,Desktop,2018-11-23,2021-11-22,1137,Operations,Active,Smith-Williams,Angela Newman,High,2,3
+488,Desktop,2022-07-26,2025-07-25,844,Risk,Retired,"Wilkinson, Moore and Jones",Kimberly Macdonald,High,1,6
+489,Laptop,2022-03-08,2025-03-07,1768,Compliance,In Maintenance,Wolf-Rios,Hannah Madden,Low,5,1
+490,Storage,2021-07-08,2024-07-07,3785,Compliance,Active,"Gray, Cohen and Ortiz",Kimberly Wilson,Low,1,1
+491,Laptop,2023-06-12,2026-06-11,1853,Operations,In Maintenance,Humphrey-Marshall,Angela Owens,High,5,5
+492,Network Device,2023-10-16,2026-10-15,7749,IT,Active,Wheeler-Jones,Heather Davis,Low,1,5
+493,Network Device,2022-06-05,2025-06-04,7420,Finance,Retired,Andrews and Sons,Christina Houston,Low,3,10
+494,Storage,2020-10-14,2023-10-14,5247,Operations,Active,Hensley PLC,Logan Williams,Low,5,2
+495,Server,2022-02-02,2025-02-01,6867,Finance,In Maintenance,"Brown, Bush and Henry",Nathan Price,High,5,4
+496,Server,2023-08-26,2026-08-25,13571,IT,In Maintenance,Rivera-Reed,Christopher Williams,Low,4,5
+497,Desktop,2024-05-27,2027-05-27,880,Risk,In Maintenance,"Sims, Blake and Morales",Bonnie Walker,High,4,6
+498,Desktop,2019-06-15,2022-06-14,805,Finance,Retired,"Evans, Turner and Long",Patricia Thomas,High,1,10
+499,Network Device,2020-11-07,2023-11-07,3221,Finance,Retired,Bond LLC,Donald Chavez,High,1,5
+500,Desktop,2022-10-27,2025-10-26,1735,HR,In Maintenance,"Campbell, Rodgers and Mitchell",Laurie Lambert,Medium,1,2
