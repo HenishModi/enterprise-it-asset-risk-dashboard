@@ -1,39 +1,98 @@
-# enterprise-it-asset-risk-dashboard
-AI-driven IT asset risk prediction and threshold sensitivity dashboard using Power BI and machine learning.
+Enterprise IT Asset Risk Analytics Dashboard
 
-Overview
+Predictive Risk Modeling & Operational Analytics for IT Asset Management
 
-This project demonstrates a predictive analytics solution designed to identify high-risk IT assets using machine learning probability scoring and interactive threshold simulation.
+⸻
 
-The dashboard supports operational risk monitoring and decision-making in enterprise environments.
+📌 Business Problem
 
-Tools & Technologies
+Large enterprises (e.g., banking institutions) manage thousands of IT assets across departments.
+Without proactive monitoring, high-risk assets can lead to:
+	•	Operational disruptions
+	•	Security vulnerabilities
+	•	Compliance issues
+	•	Increased maintenance costs
 
-Python (Random Forest Model)
+This project builds a data-driven IT Asset Risk Analytics solution to help ITAM teams proactively identify and prioritize high-risk assets.
 
-SQL
+⸻
 
-Power BI
+🎯 Project Objective
 
-Predictive Probability Scoring
+To design an end-to-end analytics solution that:
+	•	Identifies high-risk IT assets using machine learning
+	•	Enables threshold-based risk sensitivity analysis
+	•	Provides interactive Power BI dashboards for operational decision-making
+	•	Supports proactive asset governance
 
-Threshold Sensitivity Analysis
+⸻
 
-Key Features
+🏗️ Solution Architecture
 
-AI-based risk probability scoring
+Data Sources (CSV / SQL)
+⬇
+SQL Data Processing & Joins
+⬇
+Python Feature Engineering & Risk Modeling (Random Forest)
+⬇
+Power BI Interactive Dashboard for Stakeholders
 
-Interactive what-if threshold analysis
+⸻
 
-High-risk asset identification
+🛠️ Tech Stack
+	•	SQL – Data extraction, joins, transformation
+	•	Python (Pandas, Scikit-learn) – Feature engineering & predictive modeling
+	•	Random Forest Classifier – Risk prediction
+	•	Power BI – Interactive dashboards & what-if analysis
+	•	Jupyter Notebook – Model development & validation
 
-Risk distribution by department
+⸻
 
-Trend analysis over time
-[Screenshot.pdf](https://github.com/user-attachments/files/25459669/Screenshot.pdf)
+📊 Key Features
 
-Business Impact
+1️⃣ Risk Prediction Model
+	•	Built a Random Forest model to classify assets into High / Medium / Low risk
+	•	Engineered features from:
+	•	Incident history
+	•	Asset age
+	•	Patch status
+	•	Department usage
+	•	Evaluated model performance using accuracy metrics
 
-This solution helps organizations proactively identify vulnerable IT assets and simulate different risk tolerance levels before taking action.
+⸻
 
-Dashboard Preview
+2️⃣ Threshold Sensitivity Analysis
+	•	Implemented adjustable risk threshold logic
+	•	Allows IT managers to simulate different risk tolerance levels
+	•	Supports proactive vs reactive risk strategies
+
+⸻
+
+3️⃣ Power BI Dashboard
+
+The dashboard provides:
+	•	📈 Risk trend over time
+	•	🏢 Department-wise risk distribution
+	•	💻 High-risk asset listing
+	•	🎛️ What-if threshold analysis
+	•	📊 Incident correlation analysis
+
+This enables leadership to quickly identify:
+	•	Which departments carry highest risk exposure
+	•	Which assets require immediate remediation
+	•	How risk evolves over time
+
+⸻
+
+📈 Business Impact
+
+This solution demonstrates how predictive analytics can:
+	•	Reduce manual asset review effort
+	•	Improve prioritization of remediation efforts
+	•	Support data-driven IT governance
+	•	Enable proactive risk mitigation
+
+The same methodology can be applied to:
+	•	Operational risk monitoring in banking
+	•	Infrastructure risk analysis
+	•	Compliance and audit analytics
